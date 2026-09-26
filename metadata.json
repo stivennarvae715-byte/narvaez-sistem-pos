@@ -1,0 +1,6 @@
+{
+  "name": "Narvaez POS Mobile",
+  "description": "Sistema de punto de venta móvil, facturación DIAN, inventario y devoluciones para moda masculina y sastrería.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
